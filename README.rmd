@@ -1,0 +1,40 @@
+# Web development stack
+
+## Web framework:
+
+The web framework is going to be react, the first MVP is going to use the latest version: 18.
+
+Here are some react 18 examples:
+
+- https://github.com/jellydn/react-18-demo/blob/main/package.json
+- https://github.com/itmaginationdemos/React-18-Demo/blob/main/package.json
+- https://github.com/jacques-blom/react-18-demo/blob/main/package.json
+
+
+The UI widgets are going to be developed using an story book: https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/
+
+## Testing frameworks:
+
+Jest for unit testing: https://jestjs.io/
+
+Cypress for integration testing: https://github.com/SebastianCerquera/openscraper/tree/dev
+
+## Task runner:
+
+The project is going to use yarn.
+
+## Building and bundling tools:
+
+There are several solutions, further investigation is required.
+
+React focused solutions: 
+
+https://blog.logrocket.com/everything-you-need-know-about-react-scripts/
+https://medium.com/gsoft-tech/why-i-built-craco-33ff39f4fc94
+
+These are other tools:
+
+- Vite: https://vitejs.dev/
+- Webpack: https://webpack.js.org/
+- Parcel: https://rollupjs.org/guide/en/
+- Rollupjs: https://parceljs.org/
